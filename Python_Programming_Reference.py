@@ -1,0 +1,2 @@
+# print function
+print ("Hello")
