@@ -1,2 +1,0 @@
-# print function
-print ("Hello")
